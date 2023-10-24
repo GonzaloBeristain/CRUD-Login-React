@@ -1,0 +1,24 @@
+.appBar {
+    background-color: rgb(173, 33, 33) !important
+}
+
+.link {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.link:hover {
+    color: rgb(116, 110, 110);
+    
+}
+
+.active {
+    font-weight: bold;
+    color: black;
+    border-bottom: 4px solid black;
+}
+
+.active:hover {
+    border-bottom: 4px solid rgb(116, 110, 110);
+}

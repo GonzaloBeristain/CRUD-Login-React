@@ -1,0 +1,14 @@
+.tituloApp {
+  font-size: 50px;
+  text-align: center;
+  color: aliceblue;
+  padding-top: 15px;
+}
+
+.container {
+  background-color: rgb(43, 41, 41);
+}
+
+.app {
+  background-color: aliceblue
+}
